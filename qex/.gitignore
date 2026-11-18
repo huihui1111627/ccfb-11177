@@ -1,0 +1,9 @@
+# build artifacts
+qex
+src/*.o
+src/*.d
+src/*.tmp
+
+# generated data and JIT cache
+var/
+*.qex
